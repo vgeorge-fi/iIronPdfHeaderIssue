@@ -5,7 +5,7 @@ using System.ComponentModel;
 using System.Reflection.Metadata;
 
 Installation.EnableWebSecurity = true;
-IronPdf.License.LicenseKey = @"";
+IronPdf.License.LicenseKey = @"IRONSUITE.V.GEORGE.FI.COM.5754-12950C94E1-FUKEVECYYGTA7P-S5AODYTKTGOT-JAWG4GI7MEDS-QGJ2JYEHQMVJ-VOCPZ3PF47V6-DIUPSDPDEP5E-A2PE6T-TPIX7UMEAGSQUA-DEPLOYMENT.TRIAL-QQVQVN.TRIAL.EXPIRES.11.JAN.2026";
 
 var options = new ChromePdfRenderOptions
 {
